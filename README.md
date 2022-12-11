@@ -187,7 +187,7 @@ La herramienta nos permite entender un poco más sobre los valores, si comparamo
 
 5. ##### Conclusiones
 
-   * En la práctica encontramos alrededor de 99 ICS en Panamá, donde este tipo de tecnología no debe tener conectividad al internet por su delicada y falta de seguridad
+   * En la práctica encontramos alrededor de 99 ICS en Panamá, donde este tipo de tecnología no debe tener conectividad al internet por su delicada naturaleza y falta de seguridad.
    * Las industrias son administradas por sistemas sofisticados y de infraestructura critica como SCADA
    * Una software malicioso puede sobre escribir el comportamiento esperado de plantas como  HMI.
    * Los sistemas Modicon M221 PLC, PM5560 y muchos UPS son utilizados comúnmente en Panamá, un ciberdelincuente puede explotar estas fallas y poner procesos críticos en riesgo.
